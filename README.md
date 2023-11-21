@@ -44,7 +44,7 @@
 <h3 align="left">My 42 projects</h3>
 <div align="center">
 
-<a href="https://github.com/LaOuede/MiniRT">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
+<a href="https://github.com/Totoleader/MiniRT">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
 <a href="https://github.com/Totoleader/philosophers">![42 Badge](https://github.com/byaliego/42-project-badges/blob/main/badges/philosopherse.png)</a>
 <a href="https://github.com/Totoleader/minishell">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minishelle.png)</a>
 <a href="https://github.com/Totoleader/Fdf">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/fdfe.png)</a>
