@@ -44,11 +44,12 @@
 <div align="center">
 
 <a href="https://github.com/Totoleader/MiniRT">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
-<a href="https://github.com/Totoleader/philosophers">![42 Badge](https://github.com/byaliego/42-project-badges/blob/main/badges/philosopherse.png)</a>
+<a href="https://github.com/Totoleader/ft_irc2">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_irce.png)</a>
 <a href="https://github.com/Totoleader/minishell">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minishelle.png)</a>
 <a href="https://github.com/Totoleader/Fdf">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/fdfe.png)</a>
-<a href="https://github.com/Totoleader/pipex">![42 Badge](https://github.com/byaliego/42-project-badges/raw/main/badges/pipexe.png)</a>
 <a href="https://github.com/Totoleader/push_swap">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/push_swape.png)</a>
+<a href="https://github.com/Totoleader/philosophers">![42 Badge](https://github.com/byaliego/42-project-badges/blob/main/badges/philosopherse.png)</a>
+<a href="https://github.com/Totoleader/pipex">![42 Badge](https://github.com/byaliego/42-project-badges/raw/main/badges/pipexe.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/born2beroote.png)</a>
 <a href="https://github.com/Totoleader/get_next_line">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/get_next_linee.png)</a>
 <a href="https://github.com/Totoleader/printf">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_printfe.png)</a>
