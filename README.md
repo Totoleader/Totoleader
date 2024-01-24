@@ -70,6 +70,7 @@ Thanks to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 "https://github.com/Totoleader/Delivery_Rush"
 
 </div>
+
 ---
 
 <h3 align="left">Languages and Tools</h3>
