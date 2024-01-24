@@ -29,7 +29,7 @@
 <h3 align="left">Ongoing projects</h3>
 <div align="center">
  
-<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cppe.png)</a>
+<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/inceptione.png)</a>
  
  <!-- 
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_irce.png)</a>
@@ -37,7 +37,6 @@
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_transcendencee.png)</a>
 <a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/common_coree.png)</a>
 -->
-
 ---
   
 <h3 align="left">My 42 projects</h3>
@@ -45,6 +44,7 @@
 
 <a href="https://github.com/Totoleader/MiniRT">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
 <a href="https://github.com/Totoleader/ft_irc2">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_irce.png)</a>
+<a href="https://github.com/Totoleader/cpp">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cppe.png)</a>
 <a href="https://github.com/Totoleader/minishell">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minishelle.png)</a>
 <a href="https://github.com/Totoleader/Fdf">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/fdfe.png)</a>
 <a href="https://github.com/Totoleader/push_swap">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/push_swape.png)</a>
