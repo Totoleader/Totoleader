@@ -60,7 +60,7 @@ Thanks to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 
 ---
   
-<h3 align="left">Other project</h3>
+<h3 align="left">My other projects</h3>
 <div align="center">
 
 "https://github.com/Totoleader/PML_Plateformer"
