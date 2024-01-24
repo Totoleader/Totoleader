@@ -42,7 +42,7 @@
 <h3 align="left">My 42 projects</h3>
 <div align="center">
 
-<a href="https://github.com/Totoleader/MiniRT">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirte.png)</a>
+<a href="https://github.com/Totoleader/MiniRT">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirtm.png)</a>
 <a href="https://github.com/Totoleader/ft_irc2">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_irce.png)</a>
 <a href="https://github.com/Totoleader/cpp">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cppe.png)</a>
 <a href="https://github.com/Totoleader/minishell">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minishelle.png)</a>
