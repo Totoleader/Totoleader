@@ -30,13 +30,8 @@
 <div align="center">
  
 <a href="https://github.com/Totoleader/ft_Inception">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/inceptione.png)</a>
+<a href="https://github.com/eguefif/ft_transcendence">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_transcendencee.png)</a>
  
- <!-- 
-<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_irce.png)</a>
-<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/inceptione.png)</a>
-<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_transcendencee.png)</a>
-<a href="">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/common_coree.png)</a>
--->
 ---
   
 <h3 align="left">My 42 projects</h3>
