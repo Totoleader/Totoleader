@@ -12,24 +12,13 @@
 - 💬 Connect with me in 🇫🇷 🇬🇧
 - 📫 Reach me at <b>maxilcote@gmail.com<b>
 
- 
---- 
-
-<h3 align="left">Connect with me !</h3>
- 
-<p align="center">
-<a href="https://www.linkedin.com/in/maxil-c%C3%B4t%C3%A9-692a8526b/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gwenola-leroux" height="30" width="40"/> 
-</a>
-<a href="https://discordapp.com/users/Totoleader"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="Laouede's Discord" height="40" width="40"/>
-</a>
-</p>
-
 ---
   
 <h3 align="left">Ongoing projects</h3>
 <div align="center">
  
 <a href="https://github.com/Totoleader/Python-for-data-science">Python for Data Science</a>
+
  
 ---
   
