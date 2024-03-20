@@ -7,8 +7,8 @@
 <h3 align="left">About me</h3>
 
 - 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a>
-- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/Totoleader/ft_Inception">Inception</a>
-- ... 🌱 learning C, C++
+- ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/Totoleader/Python-for-data-science">Python for Data Science</a>
+- ... 🌱 learning C, C++, python, data science
 - 💬 Connect with me in 🇫🇷 🇬🇧
 - 📫 Reach me at <b>maxilcote@gmail.com<b>
 
@@ -29,14 +29,15 @@
 <h3 align="left">Ongoing projects</h3>
 <div align="center">
  
-<a href="https://github.com/Totoleader/ft_Inception">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/inceptione.png)</a>
-<a href="https://github.com/eguefif/ft_transcendence">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_transcendencee.png)</a>
+<a href="https://github.com/Totoleader/Python-for-data-science">Python for Data Science</a>
  
 ---
   
-<h3 align="left">My 42 projects</h3>
+<h3 align="left">My 42 Scool Common core Projects</h3>
 <div align="center">
 
+<a href="https://github.com/Totoleader/ft_Inception">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/inceptione.png)</a>
+<a href="https://github.com/eguefif/ft_transcendence">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_transcendencee.png)</a>
 <a href="https://github.com/Totoleader/MiniRT">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/minirtm.png)</a>
 <a href="https://github.com/Totoleader/ft_irc2">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_irce.png)</a>
 <a href="https://github.com/Totoleader/cpp">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/cppe.png)</a>
@@ -58,11 +59,9 @@ Thanks to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 <h3 align="left">My other projects</h3>
 <div align="center">
 
-"https://github.com/Totoleader/PML_Plateformer"
-
-"https://github.com/Totoleader/Fwappy-Bird-Game"
-
-"https://github.com/Totoleader/Delivery_Rush"
+<a target="_blank" href="https://github.com/Totoleader/PML_Plateformer">PML_Plateformer</a>\
+<a target="_blank" href="https://github.com/Totoleader/Fwappy-Bird-Game">Fwappy-Bird-Game</a>\
+<a target="_blank" href="https://github.com/Totoleader/Delivery_Rush">Delivery_Rush</a>
 
 </div>
 
