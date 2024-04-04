@@ -8,7 +8,7 @@
 
 - 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a>
 - ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/Totoleader/Python-for-data-science">Python for Data Science</a>
-- ... 🌱 learning C, C++, python, data science
+- ... 🌱 learning C, C++, python, data science, java
 - 💬 Connect with me in 🇫🇷 🇬🇧
 - 📫 Reach me at <b>maxilcote@gmail.com<b>
 
@@ -18,6 +18,8 @@
 <div align="center">
  
 <a href="https://github.com/Totoleader/Python-for-data-science">Python for Data Science</a>
+
+<a href="https://github.com/Totoleader/avaj-launcher">avaj-launcher</a>
 
  
 ---
