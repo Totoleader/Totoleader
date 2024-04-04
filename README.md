@@ -19,8 +19,12 @@
  
 <a href="https://github.com/Totoleader/Python-for-data-science">Python for Data Science</a>
 
-<a href="https://github.com/Totoleader/avaj-launcher">avaj-launcher</a>
+---
+  
+<h3 align="left">My 42 Scool Specialisation Projects</h3>
+<div align="center">
 
+<a href="https://github.com/Totoleader/avaj-launcher">avaj-launcher</a>
  
 ---
   
