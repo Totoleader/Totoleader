@@ -51,7 +51,7 @@ Thanks to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 
 ---
   
-<h3 align="left">My other projects</h3>
+<h3 align="left">Other projectsand demos</h3>
 <div align="center">
 
 <a target="_blank" href="https://github.com/Totoleader/PML_Plateformer">PML_Plateformer</a>\
