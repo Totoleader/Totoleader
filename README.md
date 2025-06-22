@@ -6,9 +6,9 @@
 
 <h3 align="left">About me</h3>
 
-- 💻 I’m a programming student at &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a>
+- 💻 I’m a graduate from &nbsp;<a target="_blank" href="https://42quebec.com/">42 Québec</a> computer science school
 - ... 🔭 currently working on &nbsp;<a target="_blank" href="https://github.com/Totoleader/Python-for-data-science">Python for Data Science</a>
-- ... 🌱 learning C, C++, python, data science, java
+- ... 🌱 currently learning python and qiskit
 - 💬 Connect with me in 🇫🇷 🇬🇧
 - 📫 Reach me at <b>maxilcote@gmail.com<b>
 
@@ -46,7 +46,6 @@
 <a href="https://github.com/Totoleader/printf">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/ft_printfe.png)</a>
 <a href="https://github.com/Totoleader/Libft">![42 Badge](https://github.com/LaOuede/42-project-badges/blob/main/badges/libfte.png)</a>
 
-Thanks to [Byaliego](https://github.com/byaliego/42-project-badges) for the badges !
 </div>
 
 ---
