@@ -5,7 +5,8 @@
 
 <h3 align="left">About Me</h3>
 
-- ⚛️ I’m an undergraduate student in **Quantum Information Science** at the <a target="_blank" href="https://www.usherbrooke.ca/">University of Sherbrooke</a>.
+- ⚛️ I’m currently an undergraduate student in **Quantum Information Science** at the <a target="_blank" href="https://www.usherbrooke.ca/">University of Sherbrooke</a>.
+- 🧑‍💻 I gained a year and a half of professional experience as a software developer before enrolling at University of Sherbrooke.
 - 💻 I’m also a graduate of <a target="_blank" href="https://www.42network.org/">42 Québec</a>, part of the globally recognized 42 Network — an innovative, project-based computer science school.
 - 💬 I communicate fluently in 🇫🇷 French and 🇬🇧 English.
 - 📫 Feel free to reach out: <b>maxilcote@gmail.com</b>
